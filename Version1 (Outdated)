@@ -1,5 +1,8 @@
+# WARNING: THIS CONFIG IS OUTDATED AND MAY NOT WORK, PLEASE CHECK FOR THE LATEST ITERATION TO AVOID ANY PROBLEMS
+
+
+
 # Ender3NEO_KlipperConfig
-UNFINISHED
 
 # This file contains pin mappings for the stock 2020 Creality Ender 3
 # V2. (Edited to suit ender 3 neo) To use this config, during "make menuconfig" select the
