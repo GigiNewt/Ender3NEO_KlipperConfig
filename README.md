@@ -9,3 +9,5 @@ i am currently using it in OCTOKLIPPER so if you use this in Mailsail or fluidd 
 
 MINOR ADJUSTMENTS MAY NEED TO BE MADE IN ORDER FOR THIS TO WORK ON YOUR PRINTER
 
+update 27/3/2024 This will be shortly updated and improved 
+
